@@ -1,0 +1,39 @@
+a{
+    color: rgb(17, 56, 142) !important;
+}
+.margin-bottom-15{
+    margin-bottom: 15px;
+}
+
+.center{
+    text-align: center;
+}
+
+.questions{
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid black;
+    
+}
+.questions a{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.question-title{
+    font-size: 22px;
+    /* text-decoration: none; */
+    font-weight: bold;
+    color: #1c7194 !important;
+}
+
+.answer-wrapper{
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+/* .my-questions{
+    display: flex;
+    justify-content: space-between;
+} */
